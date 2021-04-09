@@ -1,5 +1,7 @@
 # Draft Proposal for SES (Secure EcmaScript)
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 * Most of the action on the SES-shim is happening at https://github.com/Agoric/SES-shim/tree/master/packages/ses .
 * Moddable is also directly building a SES machine as the primary configuration of the XS implementation of JS for embedded, as standardized in Ecma TC53.
 * The most relevant proposal these days is https://github.com/tc39/proposal-compartments which is much more up to date than this proposal repository is.
